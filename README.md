@@ -1,7 +1,7 @@
 # Docker Multi Stage Builds
 # 20+ Real-World Project Tech Stacks for Multi-Stage Docker Builds
 
-- [ ] Node.js
+- [x] Node.js
 - [ ] NestJS
 - [ ] React Bundle
 - [ ] VueJs
